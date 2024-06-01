@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(206,48): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(272,101): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(295,61): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(420,76): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(428,91): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(483,26): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(488,41): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(505,100): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(514,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(555,98): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(564,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+pe_bliss.lib(pe_resource_manager.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
+pe_bliss.lib(pe_resource_manager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MT_StaticRelease' in main.obj
+pe_bliss.lib(pe_resource_manager.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+pe_bliss.lib(pe_32_64.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
+pe_bliss.lib(pe_32_64.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MT_StaticRelease' in main.obj
+pe_bliss.lib(pe_base.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
+pe_bliss.lib(pe_base.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MT_StaticRelease' in main.obj
+pe_bliss.lib(pe_exception.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
+pe_bliss.lib(pe_exception.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MT_StaticRelease' in main.obj
+libcpmtd.lib(iomanip.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
+libcpmtd.lib(iomanip.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MT_StaticRelease' in main.obj
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+pe_bliss.lib(pe_resource_manager.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+pe_bliss.lib(pe_resource_manager.obj) : error LNK2001: unresolved external symbol _free_dbg
+pe_bliss.lib(pe_32_64.obj) : error LNK2001: unresolved external symbol _free_dbg
+pe_bliss.lib(pe_base.obj) : error LNK2001: unresolved external symbol _free_dbg
+pe_bliss.lib(pe_resource_manager.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+pe_bliss.lib(pe_32_64.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+pe_bliss.lib(pe_base.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+pe_bliss.lib(pe_resource_manager.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+pe_bliss.lib(pe_32_64.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+pe_bliss.lib(pe_base.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\builder\x64\Release\simple_packer.exe : fatal error LNK1120: 4 unresolved externals

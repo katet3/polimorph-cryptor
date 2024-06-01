@@ -1,0 +1,4 @@
+﻿  memcpy.c
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\memcpy.c(6,1): error C2169: 'memcpy': intrinsic function, cannot be defined
+  memset.c
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\memset.c(6,1): error C2169: 'memset': intrinsic function, cannot be defined

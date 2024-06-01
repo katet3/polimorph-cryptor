@@ -1,0 +1,2 @@
+C:\Users\pc\Documents\VS_tr\pe_packer_32\modules\simple_packer\x64\Debug\simple_packer.exe
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\x64\Debug\simple_packer.exe

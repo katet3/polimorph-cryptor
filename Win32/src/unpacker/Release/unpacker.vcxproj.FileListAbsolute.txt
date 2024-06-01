@@ -1,0 +1,2 @@
+C:\Users\pc\Documents\VS_tr\pe_packer_32\modules\unpacker\Release\unpacker.exe
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\Release\unpacker.exe

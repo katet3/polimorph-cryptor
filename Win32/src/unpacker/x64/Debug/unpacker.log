@@ -1,0 +1,69 @@
+﻿  unpacker.cpp
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(16,28): error C2485: 'naked': unrecognized extended attribute
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(18,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(20,9): error C2065: 'jmp': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(20,13): error C2146: syntax error: missing ';' before identifier 'next'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(20,13): error C2065: 'next': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(21,9): error C2065: 'ret': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(21,13): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(23,9): error C2065: 'push': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(23,14): error C2146: syntax error: missing ';' before identifier 'ebp'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(23,14): error C2065: 'ebp': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(24,9): error C2065: 'mov': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(24,13): error C2146: syntax error: missing ';' before identifier 'ebp'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(24,13): error C2065: 'ebp': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(24,18): error C2065: 'esp': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(25,9): error C2065: 'sub': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(25,13): error C2146: syntax error: missing ';' before identifier 'esp'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(25,13): error C2065: 'esp': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(32,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(34,9): error C2065: 'mov': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(34,13): error C2146: syntax error: missing ';' before identifier 'original_image_base'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(35,9): error C2065: 'mov': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(35,13): error C2146: syntax error: missing ';' before identifier 'rva_of_first_section'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(36,9): error C2065: 'mov': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(36,13): error C2146: syntax error: missing ';' before identifier 'original_image_base_no_fixup'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(40,12): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'const packed_file_info *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(67,22): warning C4312: 'reinterpret_cast': conversion from 'const DWORD' to 'load_library_a_func' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(68,24): warning C4312: 'reinterpret_cast': conversion from 'const DWORD' to 'get_proc_address_func' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(227,56): warning C4311: 'reinterpret_cast': pointer truncation from 'const packed_file_info *' to 'DWORD'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(227,56): warning C4302: 'reinterpret_cast': truncation from 'const packed_file_info *' to 'DWORD'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(246,18): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'const IMAGE_DOS_HEADER *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(276,12): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(279,21): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(303,93): error C2065: 'i': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(304,94): error C2065: 'i': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(305,91): error C2065: 'i': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(306,92): error C2065: 'i': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(307,94): error C2065: 'i': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(309,88): error C2065: 'i': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(309,9): error C2660: 'memcpy': function does not take 2 arguments
+D:\ProgramFiles\Visual Studio\IDE\VC\Tools\MSVC\14.37.32822\include\vcruntime_string.h(43,15): message : see declaration of 'memcpy'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(309,9): message : while trying to match the argument list '(BYTE [8], size_t)'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(310,16): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(320,54): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'const IMAGE_SECTION_HEADER *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(322,16): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'void *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(345,17): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'IMAGE_IMPORT_DESCRIPTOR *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(350,34): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'char *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(352,22): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'DWORD *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(353,23): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(362,73): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'const char *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(375,46): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'const IMAGE_BASE_RELOCATION *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(387,36): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'DWORD *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(397,10): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(402,32): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'PIMAGE_TLS_CALLBACK *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(410,14): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'PIMAGE_TLS_CALLBACK *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(416,32): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'PIMAGE_TLS_CALLBACK *' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(422,37): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'PVOID' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(428,21): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(430,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(432,9): error C2065: 'mov': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(432,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(432,13): error C2065: 'eax': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(433,9): error C2065: 'add': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(433,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(433,13): error C2065: 'eax': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(434,9): error C2065: 'leave': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(435,9): error C2065: 'jmp': undeclared identifier
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(435,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(435,13): error C2065: 'eax': undeclared identifier

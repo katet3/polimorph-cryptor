@@ -1,0 +1,2 @@
+C:\Users\pc\Documents\VS_tr\pe_packer_32\modules\unpacker_converter\x64\Debug\unpacker_converter.exe
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker_converter\x64\Debug\unpacker_converter.exe

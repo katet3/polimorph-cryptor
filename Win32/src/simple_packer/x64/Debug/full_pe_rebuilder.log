@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\pc\Documents\VS_tr\pe_packer\modules\simple_packer\main.cpp(85,48): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+C:\Users\pc\Documents\VS_tr\pe_packer\modules\simple_packer\main.cpp(223,76): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  full_pe_rebuilder.vcxproj -> C:\Users\pc\Documents\VS_tr\pe_packer\x64\Debug\simple_packer.exe

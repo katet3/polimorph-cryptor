@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(205,48): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(271,101): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(294,61): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(419,76): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(427,91): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(482,26): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(487,41): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(504,100): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(513,73): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(554,98): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\simple_packer\main.cpp(563,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  simple_packer.vcxproj -> C:\Users\pc\Documents\VS_tr\polimorph-cryptor\builder\x64\Debug\simple_packer.exe

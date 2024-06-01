@@ -1,0 +1,3 @@
+﻿  unpacker.cpp
+C:\Users\pc\Documents\VS_tr\polimorph-cryptor\Win32\src\unpacker\unpacker.cpp(11,19): warning C4101: 'k': unreferenced local variable
+  unpacker.vcxproj -> C:\Users\pc\Documents\VS_tr\polimorph-cryptor\builder\Release\unpacker.exe
